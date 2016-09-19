@@ -11,6 +11,8 @@ public class TestGit {
 		int i = 0 ;
 		System.out.println("疯狂的石头："+i);
 		System.out.println("To be or not to be");
+		System.out.println("create conflicts");
+		System.out.println("To be or not to be");
 	}
 
 }
