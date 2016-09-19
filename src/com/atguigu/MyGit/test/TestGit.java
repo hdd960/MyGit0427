@@ -9,6 +9,7 @@ public class TestGit {
 		System.out.println("HelloWorld!");
 		System.out.println("hello github 服务器");
 		int i = 0 ;
+		System.out.println("疯狂的石头："+i);
 	}
 
 }
